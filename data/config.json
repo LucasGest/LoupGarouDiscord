@@ -1,0 +1,61 @@
+{
+  "logChannelId": "1475589631574540459",
+  "warns": {
+    "1288202448149676053": [
+      {
+        "raison": "Test",
+        "moderateur": "_lucanemone_",
+        "date": "2026-02-23T20:35:30.763Z"
+      },
+      {
+        "raison": "T'es quoi toi en fait laaaa oooooooooooh",
+        "moderateur": "_lucanemone_",
+        "date": "2026-02-23T21:30:11.547Z"
+      }
+    ]
+  },
+  "classement": {
+    "1290695657707016232": {
+      "251015486953750528": {
+        "displayName": "SLX | Lucanemone",
+        "victoires": 0,
+        "parties": 1
+      },
+      "1011788975276576790": {
+        "displayName": "GaracleS",
+        "victoires": 1,
+        "parties": 2
+      },
+      "601857864717565984": {
+        "displayName": "VicXine",
+        "victoires": 0,
+        "parties": 1
+      },
+      "1476275613005512917": {
+        "displayName": "JeSuisUnUserTesteur",
+        "victoires": 0,
+        "parties": 1
+      },
+      "553251884052250639": {
+        "displayName": "Croco",
+        "victoires": 0,
+        "parties": 1
+      },
+      "820350965021409280": {
+        "displayName": "razeurstorne",
+        "victoires": 0,
+        "parties": 1
+      },
+      "239472628736196608": {
+        "displayName": "Valmoux",
+        "victoires": 0,
+        "parties": 1
+      },
+      "207954476215173131": {
+        "displayName": "Tessouille",
+        "victoires": 0,
+        "parties": 1
+      }
+    }
+  }
+}
